@@ -15,7 +15,7 @@
 
 1. Download the extension or clone this repository:
    ```bash
-   git clone https://github.com/your-username/QR-URL-Generator.git
+   git clone https://github.com/youngbeauty/URL-QR-Extension.git
 
 
 2. Open Chrome and navigate to chrome://extensions/.
